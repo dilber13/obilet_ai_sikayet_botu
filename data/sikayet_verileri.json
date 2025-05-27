@@ -1,0 +1,42 @@
+[
+  {
+    "mesaj": "Biletimi iptal etmek istiyorum ama uygulama hata veriyor.",
+    "kategori": "bilet_iptali"
+  },
+  {
+    "mesaj": "Kredi kartımdan para çekildi ama bilet gelmedi.",
+    "kategori": "ödeme_sorunu"
+  },
+  {
+    "mesaj": "Otobüsüm 2 saat gecikti ve kimse bilgi vermedi.",
+    "kategori": "sefer_gecikmesi"
+  },
+  {
+    "mesaj": "Rezervasyon yaptım ama koltuk başkasına verilmiş.",
+    "kategori": "rezervasyon_problemi"
+  },
+  {
+    "mesaj": "Müşteri hizmetleri çok geç cevap veriyor.",
+    "kategori": "müşteri_hizmeti_sikayeti"
+  },
+  {
+    "mesaj": "Uygulama sürekli çöküyor, giriş yapamıyorum.",
+    "kategori": "uygulama_sorunu"
+  },
+  {
+    "mesaj": "Bileti aldım ama saat değişmiş, haber verilmedi.",
+    "kategori": "bilgilendirme_sorunu"
+  },
+  {
+    "mesaj": "İade istedim ama geri dönüş yapılmadı.",
+    "kategori": "iade_sorunu"
+  },
+  {
+    "mesaj": "Otobüste klima çalışmıyordu, çok kötüydü.",
+    "kategori": "seyahat_koşulları"
+  },
+  {
+    "mesaj": "Yanlış koltuk numarası verildi, yerim yoktu.",
+    "kategori": "rezervasyon_problemi"
+  }
+]
