@@ -14,7 +14,7 @@ Bu proje, OpenAI GPT-3.5 modeli kullanarak müşteri şikayetlerini:
 
 ## 🖼 Ekran Görüntüsü
 
-![Screenshot](obiletAiyardımcı.png)
+![Screenshot](obiletAiyardımcı.jpg)
 
 ## 🛠 Kurulum
 
